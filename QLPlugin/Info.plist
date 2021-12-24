@@ -235,6 +235,8 @@
 				<string>public.yaml</string> <!-- .yaml, .yml -->
 				<string>public.zsh-script</string> <!-- .zsh -->
 				<string>tk.tcl.tcl-source</string> <!-- .tcl -->
+				<string>dyn.ah62d4rv4ge80y65u</string> <!-- .jsp -->
+				<string>com.sun.java-source</string> <!-- .java -->
 			</array>
 			<key>QLSupportsSearchableItems</key>
 			<true/>
